@@ -1,0 +1,146 @@
+[
+  {
+    "id": "appointment-001",
+    "exposure": 56694,
+    "signal": 0.392,
+    "urgency": 8
+  },
+  {
+    "id": "appointment-002",
+    "exposure": 63339,
+    "signal": 0.827,
+    "urgency": 5
+  },
+  {
+    "id": "appointment-003",
+    "exposure": 40456,
+    "signal": 0.348,
+    "urgency": 9
+  },
+  {
+    "id": "appointment-004",
+    "exposure": 89561,
+    "signal": 0.373,
+    "urgency": 5
+  },
+  {
+    "id": "appointment-005",
+    "exposure": 65791,
+    "signal": 0.11,
+    "urgency": 1
+  },
+  {
+    "id": "appointment-006",
+    "exposure": 33856,
+    "signal": 0.251,
+    "urgency": 3
+  },
+  {
+    "id": "appointment-007",
+    "exposure": 34041,
+    "signal": 0.715,
+    "urgency": 8
+  },
+  {
+    "id": "appointment-008",
+    "exposure": 22002,
+    "signal": 0.478,
+    "urgency": 1
+  },
+  {
+    "id": "appointment-009",
+    "exposure": 29613,
+    "signal": 0.704,
+    "urgency": 9
+  },
+  {
+    "id": "appointment-010",
+    "exposure": 48210,
+    "signal": 0.144,
+    "urgency": 5
+  },
+  {
+    "id": "appointment-011",
+    "exposure": 3845,
+    "signal": 0.616,
+    "urgency": 3
+  },
+  {
+    "id": "appointment-012",
+    "exposure": 43674,
+    "signal": 0.287,
+    "urgency": 9
+  },
+  {
+    "id": "appointment-013",
+    "exposure": 23527,
+    "signal": 0.629,
+    "urgency": 6
+  },
+  {
+    "id": "appointment-014",
+    "exposure": 33891,
+    "signal": 0.79,
+    "urgency": 5
+  },
+  {
+    "id": "appointment-015",
+    "exposure": 18687,
+    "signal": 0.168,
+    "urgency": 6
+  },
+  {
+    "id": "appointment-016",
+    "exposure": 83864,
+    "signal": 0.581,
+    "urgency": 2
+  },
+  {
+    "id": "appointment-017",
+    "exposure": 66918,
+    "signal": 0.118,
+    "urgency": 3
+  },
+  {
+    "id": "appointment-018",
+    "exposure": 74658,
+    "signal": 0.505,
+    "urgency": 7
+  },
+  {
+    "id": "appointment-019",
+    "exposure": 40778,
+    "signal": 0.68,
+    "urgency": 5
+  },
+  {
+    "id": "appointment-020",
+    "exposure": 63090,
+    "signal": 0.502,
+    "urgency": 9
+  },
+  {
+    "id": "appointment-021",
+    "exposure": 74856,
+    "signal": 0.394,
+    "urgency": 8
+  },
+  {
+    "id": "appointment-022",
+    "exposure": 1837,
+    "signal": 0.23,
+    "urgency": 9
+  },
+  {
+    "id": "appointment-023",
+    "exposure": 70928,
+    "signal": 0.284,
+    "urgency": 3
+  },
+  {
+    "id": "appointment-024",
+    "exposure": 37985,
+    "signal": 0.604,
+    "urgency": 9
+  }
+]
